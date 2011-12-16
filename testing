@@ -1,0 +1,3 @@
+#!/bin/bash
+
+watchr config/watchr.rb
